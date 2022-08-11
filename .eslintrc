@@ -1,9 +1,3 @@
 {
-  "parserOptions": {
-    "ecmaVersion": 13,
-    "ecmaFeatures": {
-      "jsx": true
-    },
-    "sourceType": "module"
-  }
+  "extends" ["react-app"]
 }
